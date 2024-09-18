@@ -1,0 +1,4 @@
+[console_scripts]
+decision_action = decision_pkg.decision_action:main
+decision_node = decision_pkg.decision_node:main
+

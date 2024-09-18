@@ -1,0 +1,26 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from custom_interfaces/msg/VisionRobot.msg
+// generated code does not contain a copyright notice
+
+
+module custom_interfaces {
+  module msg {
+    @verbatim (language="comment", text=
+      "Messages")
+    struct VisionRobot {
+      boolean detected;
+
+      uint8 left;
+
+      uint8 center;
+
+      uint8 right;
+
+      uint8 far;
+
+      uint8 med;
+
+      uint8 close;
+    };
+  };
+};

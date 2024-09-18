@@ -1,0 +1,15 @@
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/control/CMakeFiles/uninstall.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/control/CMakeFiles/control_uninstall.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/control/CMakeFiles/motion.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/control/CMakeFiles/robot_joy_control.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/control/CMakeFiles/neck_control.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/control/CMakeFiles/gait_publisher.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/control/CMakeFiles/control.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/control/CMakeFiles/decision.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/control/CMakeFiles/test.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/control/CMakeFiles/edit_cache.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/control/CMakeFiles/rebuild_cache.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/control/CMakeFiles/list_install_components.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/control/CMakeFiles/install.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/control/CMakeFiles/install/local.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/control/CMakeFiles/install/strip.dir

@@ -1,0 +1,10 @@
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/motors_pkg/CMakeFiles/uninstall.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/motors_pkg/CMakeFiles/motors_pkg_uninstall.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/motors_pkg/CMakeFiles/motors_communication.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/motors_pkg/CMakeFiles/test.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/motors_pkg/CMakeFiles/edit_cache.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/motors_pkg/CMakeFiles/rebuild_cache.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/motors_pkg/CMakeFiles/list_install_components.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/motors_pkg/CMakeFiles/install.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/motors_pkg/CMakeFiles/install/local.dir
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/motors_pkg/CMakeFiles/install/strip.dir

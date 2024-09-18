@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdecision.a CMakeFiles/decision.dir/src/decision_node.cpp.o
+/usr/bin/ranlib libdecision.a

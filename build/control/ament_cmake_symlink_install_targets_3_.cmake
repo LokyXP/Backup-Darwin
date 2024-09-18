@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/robo/RoboFEI-HT_2023_SOFTWARE/build/control/control" "/home/robo/RoboFEI-HT_2023_SOFTWARE/build/control/decision" "TARGETS" "control" "decision" "DESTINATION" "lib/control")

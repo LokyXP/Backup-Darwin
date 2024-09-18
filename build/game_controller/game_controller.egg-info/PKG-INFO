@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: game-controller
+Version: 0.0.0
+Summary: The controller packages receives packets from the GameController and republishes them as msg/humanoid_league_msgs ROS2 messages. It sends response packetsback to the GameController
+Home-page: UNKNOWN
+Maintainer: RoboFEI
+Maintainer-email: thiago.tmoura01@gmail.com
+License: Apache License
+Platform: UNKNOWN
+
+UNKNOWN
+

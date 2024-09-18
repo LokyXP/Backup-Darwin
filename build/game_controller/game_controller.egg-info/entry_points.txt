@@ -1,0 +1,3 @@
+[console_scripts]
+connect = game_controller.connect:main
+

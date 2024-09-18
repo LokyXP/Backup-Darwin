@@ -1,0 +1,14 @@
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/custom_interfaces/rosidl_adapter/custom_interfaces:msg/SetPosition.idl
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/custom_interfaces/rosidl_adapter/custom_interfaces:msg/Vision.idl
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/custom_interfaces/rosidl_adapter/custom_interfaces:msg/VisionRobot.idl
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/custom_interfaces/rosidl_adapter/custom_interfaces:msg/HumanoidLeagueMsgs.idl
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/custom_interfaces/rosidl_adapter/custom_interfaces:msg/Localization.idl
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/custom_interfaces/rosidl_adapter/custom_interfaces:msg/SetPositionOriginal.idl
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/custom_interfaces/rosidl_adapter/custom_interfaces:msg/Decision.idl
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/custom_interfaces/rosidl_adapter/custom_interfaces:msg/Walk.idl
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/custom_interfaces/rosidl_adapter/custom_interfaces:msg/NeckPosition.idl
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/custom_interfaces/rosidl_adapter/custom_interfaces:msg/JointState.idl
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/custom_interfaces/rosidl_adapter/custom_interfaces:msg/RobotState.idl
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/custom_interfaces/rosidl_adapter/custom_interfaces:srv/GetPosition.idl
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/custom_interfaces/rosidl_adapter/custom_interfaces:srv/Reset.idl
+/home/robo/RoboFEI-HT_2023_SOFTWARE/build/custom_interfaces/rosidl_adapter/custom_interfaces:action/Control.idl

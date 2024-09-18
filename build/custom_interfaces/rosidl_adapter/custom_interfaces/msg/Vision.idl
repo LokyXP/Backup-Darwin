@@ -1,0 +1,36 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from custom_interfaces/msg/Vision.msg
+// generated code does not contain a copyright notice
+
+
+module custom_interfaces {
+  module msg {
+    @verbatim (language="comment", text=
+      "Messages")
+    struct Vision {
+      @default (value=FALSE)
+      boolean detected;
+
+      @default (value=FALSE)
+      boolean left;
+
+      @default (value=FALSE)
+      boolean center;
+
+      @default (value=FALSE)
+      boolean right;
+
+      @default (value=FALSE)
+      boolean center_right;
+
+      @default (value=FALSE)
+      boolean far;
+
+      @default (value=FALSE)
+      boolean med;
+
+      @default (value=FALSE)
+      boolean close;
+    };
+  };
+};

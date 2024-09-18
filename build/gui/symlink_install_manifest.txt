@@ -1,0 +1,16 @@
+/home/robo/RoboFEI-HT_2023_SOFTWARE/install/gui/lib/gui/robot_gui
+/home/robo/RoboFEI-HT_2023_SOFTWARE/install/gui/share/ament_index/resource_index/package_run_dependencies/gui
+/home/robo/RoboFEI-HT_2023_SOFTWARE/install/gui/share/ament_index/resource_index/parent_prefix_path/gui
+/home/robo/RoboFEI-HT_2023_SOFTWARE/install/gui/share/gui/environment/ament_prefix_path.sh
+/home/robo/RoboFEI-HT_2023_SOFTWARE/install/gui/share/gui/environment/ament_prefix_path.dsv
+/home/robo/RoboFEI-HT_2023_SOFTWARE/install/gui/share/gui/environment/path.sh
+/home/robo/RoboFEI-HT_2023_SOFTWARE/install/gui/share/gui/environment/path.dsv
+/home/robo/RoboFEI-HT_2023_SOFTWARE/install/gui/share/gui/local_setup.bash
+/home/robo/RoboFEI-HT_2023_SOFTWARE/install/gui/share/gui/local_setup.sh
+/home/robo/RoboFEI-HT_2023_SOFTWARE/install/gui/share/gui/local_setup.zsh
+/home/robo/RoboFEI-HT_2023_SOFTWARE/install/gui/share/gui/local_setup.dsv
+/home/robo/RoboFEI-HT_2023_SOFTWARE/install/gui/share/gui/package.dsv
+/home/robo/RoboFEI-HT_2023_SOFTWARE/install/gui/share/ament_index/resource_index/packages/gui
+/home/robo/RoboFEI-HT_2023_SOFTWARE/install/gui/share/gui/cmake/guiConfig.cmake
+/home/robo/RoboFEI-HT_2023_SOFTWARE/install/gui/share/gui/cmake/guiConfig-version.cmake
+/home/robo/RoboFEI-HT_2023_SOFTWARE/install/gui/share/gui/package.xml

@@ -1,0 +1,3 @@
+[console_scripts]
+imu = imu.serial_node_arduino:main
+

@@ -1,0 +1,11 @@
+from custom_interfaces.msg._decision import Decision  # noqa: F401
+from custom_interfaces.msg._humanoid_league_msgs import HumanoidLeagueMsgs  # noqa: F401
+from custom_interfaces.msg._joint_state import JointState  # noqa: F401
+from custom_interfaces.msg._localization import Localization  # noqa: F401
+from custom_interfaces.msg._neck_position import NeckPosition  # noqa: F401
+from custom_interfaces.msg._robot_state import RobotState  # noqa: F401
+from custom_interfaces.msg._set_position import SetPosition  # noqa: F401
+from custom_interfaces.msg._set_position_original import SetPositionOriginal  # noqa: F401
+from custom_interfaces.msg._vision import Vision  # noqa: F401
+from custom_interfaces.msg._vision_robot import VisionRobot  # noqa: F401
+from custom_interfaces.msg._walk import Walk  # noqa: F401

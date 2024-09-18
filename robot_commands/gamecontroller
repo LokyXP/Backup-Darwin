@@ -1,0 +1,10 @@
+#!/bin/bash
+
+cd ~/RoboFEI-HT_2023_SOFTWARE 
+source install/setup.bash 
+
+if [ -z $1 ]; then
+    ros2 launch robot_bringup gamecontroller_bringup.launch.py
+else
+    ros2 launch robot_bringup gamecontroller_bringup.launch.py team_number:=$1
+fi
