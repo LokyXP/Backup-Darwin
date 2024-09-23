@@ -15,7 +15,7 @@ RobotBehavior::RobotBehavior()
         std::bind(&RobotBehavior::players_behavior, this));    
 }
 
-RobotBehavior::~RobotBehavior()
+RobotBehavior::~RobotBehavior()     //checkpoint
 {
 }
 
