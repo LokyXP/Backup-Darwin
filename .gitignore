@@ -1,0 +1,9 @@
+**/build
+**/install
+**/log
+**/runs
+.vscode
+**/__pycache__
+
+*.o
+*.swp

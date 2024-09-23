@@ -94,7 +94,7 @@ MotionManager::MotionManager(const rclcpp::NodeOptions & options) :
 	for(int i = 0; i < JointData::NUMBER_OF_JOINTS; i++)
         m_Offset[i] = 0;
 	// update_thread_ = std::thread(std::bind(&MotionManager::update_loop, this));
-	printf("CONSTRUTOR\n");
+	//printf("CONSTRUTOR\n");
 
 	robot_number_ = this->declare_parameter("robot_number", 2);
 	
