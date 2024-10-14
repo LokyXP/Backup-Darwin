@@ -2,7 +2,7 @@
 
 using namespace std::chrono_literals;
 
-// #define NECK_TILT_CENTER 2048
+// #define NECK_TILT_CENTER 512
 // #define NECK_CENTER_TH 185
 // #define NECK_LEFT_LIMIT 2650
 // #define NECK_LEFT_TH (NECK_LEFT_LIMIT-(NECK_TILT_CENTER+NECK_CENTER_TH))
@@ -69,9 +69,9 @@ DecisionNode::DecisionNode() : Node("decision_node")
     FALL_ACCEL_TH = this->declare_parameter("FALL_ACCEL_TH", 7.0);
     FALSES_FALLEN_TH = this->declare_parameter("FALSES_FALLEN_TH", 30);
 
-    NECK_LEFT_LIMIT = this->declare_parameter("neck_left_limit", 2650);
-    NECK_RIGHT_LIMIT = this->declare_parameter("neck_right_limit", 1350);
-    NECK_CLOSE_LIMIT = this->declare_parameter("neck_down_limit", 1350);
+    NECK_LEFT_LIMIT = this->declare_parameter("neck_left_limit", 800);
+    NECK_RIGHT_LIMIT = this->declare_parameter("neck_right_limit", 300);
+    NECK_CLOSE_LIMIT = this->declare_parameter("neck_down_limit", 400);
 }
 
 DecisionNode::~DecisionNode()
@@ -149,7 +149,8 @@ void DecisionNode::listener_callback_vision(const VisionMsg::SharedPtr vision_in
   this->robot.camera_ball_position = *vision_info;
   if(robot.neck_pos.position20 < 1750)
   {
-    NECK_CENTER_TH = get_center_th(robot.neck_pos.position20);
+    //NECK_CENTER_TH = get_center_th(robot.neck_pos.position20);
+    NECK_CENTER_TH = 100;
     NECK_LEFT_TH = NECK_TILT_CENTER + NECK_CENTER_TH;
     NECK_RIGHT_TH = NECK_TILT_CENTER - NECK_CENTER_TH;
   }
